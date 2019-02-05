@@ -1,0 +1,17 @@
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Quartz1.exe.config
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Quartz1.exe
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Quartz1.pdb
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Common.Logging.Core.dll
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Common.Logging.dll
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Quartz.dll
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Common.Logging.pdb
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Common.Logging.xml
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Common.Logging.Core.pdb
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Common.Logging.Core.xml
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Quartz.pdb
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\bin\Debug\Quartz.xml
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\obj\Debug\Quartz1.csprojAssemblyReference.cache
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\obj\Debug\Quartz1.csproj.CoreCompileInputs.cache
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\obj\Debug\Quartz1.csproj.CopyComplete
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\obj\Debug\Quartz1.exe
+C:\Users\jsdesena\source\repos\Quartz1\Quartz1\obj\Debug\Quartz1.pdb
